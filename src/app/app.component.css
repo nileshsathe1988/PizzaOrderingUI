@@ -1,0 +1,15 @@
+.imgBox {
+    margin-top: 15px;
+    text-align: center;
+}
+.divToatal {
+    padding-top: 20px;
+    font-size: 18px;
+}
+img {
+    border: 15px solid grey;
+    border-radius: 10px;
+}
+.subAlign {
+    text-align: center;
+}
